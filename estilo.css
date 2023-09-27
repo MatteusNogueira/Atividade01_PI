@@ -1,0 +1,31 @@
+.divPai{
+    background-color: #ffa500; 
+    height: 500px; 
+    width: 500px;
+}
+
+.divFilha{
+    background-color: #90ee90; 
+    height: 50%;
+    width: 50%;
+}
+
+.prgf{
+    color: white; 
+    background-color: red; 
+    font-size: 25px;
+    font-family: monospace;
+    font-weight: bold;
+}
+
+.div2{
+    width: 50%; 
+    height: 50vh; 
+    background-color: rgb(173, 216, 230);
+}
+
+.divFilha2{
+    width: 75vw; 
+    height: 50%; 
+    background-color: rgb(255, 0, 0);
+}    
